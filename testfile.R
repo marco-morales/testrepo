@@ -4,3 +4,4 @@
 
 print("Hello World!")
 print(":)")
+y <- "this is a string"
