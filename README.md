@@ -1,2 +1,2 @@
 # testrepo
-test repository for demonstraion purposes
+test repository for demonstration purposes
