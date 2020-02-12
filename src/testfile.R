@@ -11,6 +11,8 @@ print("Hello World!")
 print(":)")
 print("boom")
 
+print("nbc loves bernie sanders")
+
 #Let's create some vectors
 V1 <- rnorm(20, mean = 0, sd = 1)
 V2 <- rnorm(20, mean = -1, sd = 0.5)
