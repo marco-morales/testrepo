@@ -2,14 +2,14 @@
 
 ### this is a test file
 
-print("Hello World!")
-print("Hello World!")
-print("Hello World!")
+print("Hello Worlds!")
+print("Hello Worlds!")
+print("Hello Worlds!")
 
-print("Hello World!")
-print("Hello World!")
-print(":)")
-print("boom")
+print("Hello Worlds!")
+print("Hello Worlds!")
+print(":(")
+print("booms")
 
 #Let's create some vectors
 V1 <- rnorm(20, mean = 0, sd = 1)
