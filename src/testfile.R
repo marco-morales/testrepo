@@ -25,3 +25,4 @@ V2 <- rnorm(20, mean = -1, sd = 0.5)
 V3 <- runif(20, min = 0, max = 1)
 V4 <- runif(25, mean = 0, sd = 1)
 V5 <- "hi"
+V6 <- "hihi"
