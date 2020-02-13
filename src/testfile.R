@@ -10,7 +10,7 @@ print("Hello World!")
 print("Hello World!")
 print(":)")
 print("boom")
-print("test")
+print("katie wuz here")
 
 #Let's create some vectors
 V1 <- rnorm(20, mean = 0, sd = 1)
