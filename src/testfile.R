@@ -10,6 +10,7 @@ print("Hello World!")
 print("Hello World!")
 print(":)")
 print("boom")
+print("katie wuz here")
 
 print("Wenjun Sun")
 print("Xueying is next to me")
